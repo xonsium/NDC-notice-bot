@@ -3,7 +3,7 @@
 Fetches new notice from https://ndc.edu.bd/ and automatically sends it to all users that have added the bot.
 
 ## Add the bot
-- [@NDCNoticeBot](t.me/NDCNoticeBot)
+- [@NDCNoticeBot](https://t.me/NDCNoticeBot)
 
 ## Usage
 - /start - Adds you to users list
