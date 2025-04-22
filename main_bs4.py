@@ -152,7 +152,7 @@ def send_welcome(message):
 
 @bot.message_handler(commands=['help'])
 def send_help(message):
-    bot.reply_to(message, "For any kind to information, inquiry or report please contact @faridinqn")
+    bot.reply_to(message, "/last - To get the last notice\nOther than that, notices will be sent automatically\n\nFor any kind of information, inquiry or report please contact @faridinqn")
 
 def check_notice():
     global first_run
