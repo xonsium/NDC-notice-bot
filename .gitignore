@@ -3,3 +3,5 @@ user_ids.json
 notices.json
 venv/
 app.log
+*.pdf
+__pycache__/

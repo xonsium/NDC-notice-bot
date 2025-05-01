@@ -3,12 +3,6 @@
 Fetches new notice from https://ndc.edu.bd/ and automatically sends it to all users that have added the bot.
 
 ## Installation
-- For using bs4
-```
-pip install -r req.txt
-python3 main_bs4.py
-```
-- For using selectolax
 ```
 pip install -r requirements.txt
 python3 main.py
@@ -20,7 +14,8 @@ python3 main.py
 
 ## Usage
 - /start - Adds you to users list
-- /last - gives you last the notice
+- /last - gives you the last notice
+- list - gives you the last 6 notice to choose from
 
 Libraries: 
 - pyTelegramBotAPI
